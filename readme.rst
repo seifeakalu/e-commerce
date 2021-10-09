@@ -1,6 +1,4 @@
 ###################
-https://forms.gle/UdQ7tccGQBR8XfmaA
-https://forms.gle/rdoooGKtAvYgQuyw6
 What is CodeIgniter
 ###################
 
